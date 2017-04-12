@@ -1,0 +1,8 @@
+Tanks [id=4, name=ABA, country=BDD, speed=63, ammunition=42]
+Tanks [id=5, name=AEE, country=AAF, speed=33, ammunition=31]
+Tanks [id=7, name=CCD, country=DFC, speed=60, ammunition=29]
+Tanks [id=8, name=FDE, country=EFD, speed=66, ammunition=37]
+Tanks [id=9, name=BFF, country=CBC, speed=38, ammunition=26]
+Tanks [id=10, name=AEF, country=BFC, speed=78, ammunition=21]
+Tanks [id=15, name=AEE, country=EAF, speed=74, ammunition=22]
+Tanks [id=20, name=DBE, country=ECE, speed=68, ammunition=25]
